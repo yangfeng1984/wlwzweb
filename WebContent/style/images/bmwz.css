@@ -1,0 +1,92 @@
+/* CSS Document */
+
+/* 选择部门 */
+#box{ border:1px solid #e27565; padding:9px 7px;}
+.xzbm_tit{ background:url("xzbm_tit.jpg")/*tpa=http://www.ganzhou.gov.cn/images/xzbm_tit.jpg*/ repeat-x; height:34px;}
+.xzbm_tit h3{ background: #fff url("ico_02.jpg")/*tpa=http://www.ganzhou.gov.cn/images/ico_02.jpg*/ no-repeat 0px top; width:123px; height:34px; padding-right:2px; font-size:14px; font-weight:bold; color:#fff; text-align:center; line-height:30px; float:left;}
+.xzbm_tit span{ float:right; line-height:30px; padding-right:15px; font-weight:bold;}
+.bmwz li{ height:50px; line-height:50px; *height:47px; *line-height:47px; _height:47px; _line-height:47px;  font-size:14px; clear:both;}
+.bmwz li a{ width:170px; float:left;padding-left:25px;padding-right:0px; background:url("jt_3.jpg")/*tpa=http://www.ganzhou.gov.cn/images/jt_3.jpg*/ no-repeat 4px 18px;}
+.bmwz li.li_bg{ height:31px; line-height:31px; *height:28px; *line-height:28px; _height:28px; _line-height:28px; background:#fff5e7;}
+.bmwz li.li_bg a{ background:url("jt_4.jpg")/*tpa=http://www.ganzhou.gov.cn/images/jt_4.jpg*/ no-repeat 4px 8px;}
+
+.green{ color:#009900;}
+.blue{ color:#002ac4;}
+.red{ color:#ff0000;}
+.orange{ color:#ff5a00;}
+
+/* 问政列表 */
+#bmwz_l{ float:left; width:263px;}
+#bmwz_r{ float:right; width:725px;}
+#bmwz_l img{ display:block;}
+.bmjj{ border:1px solid #e06b5a; height:306px;}
+.bmjj h3,.wtcx h3{ height:32px; background:url("bmjj_tit.jpg")/*tpa=http://www.ganzhou.gov.cn/images/bmjj_tit.jpg*/ repeat-x; font-size:14px; font-weight:bold; color:#333; line-height:32px; padding-left:13px;}
+.bmjj p{ color:#6f3900; line-height:24px; padding:0 9px;}
+.bmjj p a{ color:#cc0000;}
+
+.wtcx{border:1px solid #e06b5a; height:125px;}
+.biaodan{ height:93px; background:url("wtcx_ico.jpg")/*tpa=http://www.ganzhou.gov.cn/images/wtcx_ico.jpg*/ no-repeat 11px 12px; padding-left:62px; padding-top:16px;}
+.wtcx_text{ width:181px; height:17px; border:1px solid #7f9db9;}
+.wtcx_btn{ background:url("wtcx_cx.jpg")/*tpa=http://www.ganzhou.gov.cn/images/wtcx_cx.jpg*/ no-repeat; width:60px; height:23px; border:none;}
+
+.bmwz_r_tit{ background:url("bmjj_tit.jpg")/*tpa=http://www.ganzhou.gov.cn/images/bmjj_tit.jpg*/ repeat-x; height:32px;}
+.bmwz_r_tit h3{ float:left; color:#333; font-size:14px; font-weight:bold; line-height:32px; background:url("jt_5.jpg")/*tpa=http://www.ganzhou.gov.cn/images/jt_5.jpg*/ no-repeat 16px 11px; padding-left:38px;}
+.bmwz_r_tit span{ float:right; color:#d6260a; line-height:32px; padding-right:20px;}
+.hfxd{ border:1px solid #d9d9d9;}.hfxd.box_no{ border:none; border-top:1px solid #d9d9d9;}
+.hfxd dt{ background:url("hfxd_dt_bg.jpg")/*tpa=http://www.ganzhou.gov.cn/images/hfxd_dt_bg.jpg*/ repeat-x; height:28px; clear:both;}
+.hfxd dt h2,.hfxd dt h3,.hfxd dt h4,.hfxd dt h5,.hfxd dt h6{ float:left; font-weight:bold; height:28px; border-bottom:1px solid #d9d9d9; text-align:center; line-height:28px;}
+.hfxd h2,.hfxd h3,.hfxd h4,.hfxd h5{border-right:1px solid #d9d9d9; }
+.hfxd h2{ width:81px; }
+.hfxd h3{ width:397px;}.hfxd h3.w677{ width:670px;}
+.hfxd h4{ width:66px;}
+.hfxd h5{ width:96px;}
+.hfxd h6{ width:79px;}
+.hfxd dd{ height:30px; line-height:30px;_height:31px; _line-height:31px; clear:both;}
+.hfxd dd h2,.hfxd dd h4,.hfxd dd h5,.hfxd dd h6{ float:left;  text-align:center; }
+.hfxd dd h3{ padding-left:12px; float:left; width:385px;}.hfxd dd h3.w677{ width:658px;}
+.hfxd dd.dd_bg{ background:#eee;}
+
+.wzhfxd{ border:1px solid #d9d9d9;}.wzhfxd.box_no{ border:none; border-top:1px solid #d9d9d9;}
+.wzhfxd dt{ background:url("hfxd_dt_bg.jpg")/*tpa=http://www.ganzhou.gov.cn/images/hfxd_dt_bg.jpg*/ repeat-x; height:28px; clear:both;}
+.wzhfxd dt h1,.wzhfxd dt h2,.wzhfxd dt h3,.wzhfxd dt h4,.wzhfxd dt h5,.wzhfxd dt h6{ float:left; font-weight:bold; height:28px; border-bottom:1px solid #d9d9d9; text-align:center; line-height:28px;}
+.wzhfxd h1,.wzhfxd h2,.wzhfxd h3,.wzhfxd h4,.wzhfxd h5{border-right:1px solid #d9d9d9; }
+.wzhfxd h2{ width:81px; }
+.wzhfxd h3{ width:397px;}
+.wzhfxd h3.w677{ width:470px;}
+.wzhfxd h1{ width:200px;}
+.wzhfxd h4{ width:66px;}
+.wzhfxd h5{ width:95px;}
+.wzhfxd h6{ width:79px;}
+.wzhfxd dd{ height:30px; line-height:30px;_height:31px; _line-height:31px; clear:both;}
+.wzhfxd dd h1,.wzhfxd dd h2,.wzhfxd dd h4,.wzhfxd dd h5,.wzhfxd dd h6{ float:left;  text-align:center; }
+.wzhfxd dd h3{ padding-left:12px; float:left; width:385px;}.wzhfxd dd h3.w677{ width:458px;}
+.wzhfxd dd.dd_bg{ background:#eee;}
+
+.pages{ clear: both; height: 22px; padding-top:12px; padding-bottom:12px;_padding-bottom:13px;background:#eee ;width:725px;text-align: center; font-size:12px; }
+.pages  a{border: 1px solid #d0d0d0; margin-left:3px;  height:20px; line-height: 20px;width:20px; padding:4px 7px; background:url("pages_bg.jpg")/*tpa=http://www.ganzhou.gov.cn/images/pages_bg.jpg*/ repeat-x;}
+.pages  a:hover{ border: 1px solid #d0d0d0; background-color:#efefef; color: #000000; text-decoration: none;}
+.pages  strong{ color: #e75959;  border: 1px solid #e06b5a; margin-right:3px; margin-left:3px; width:20px;font-size:12px; line-height: 20px;height:20px; padding:4px 7px; background:url("pages_bg.jpg")/*tpa=http://www.ganzhou.gov.cn/images/pages_bg.jpg*/ repeat-x;}
+.pages span{width:90px;font-size:14px; padding-top:5px; padding-left:13px;}
+
+/* 我要问政 */
+.wz_box{ border:1px solid #e06b5a; height:625px; background:url("wywz_bg1.jpg")/*tpa=http://www.ganzhou.gov.cn/images/wywz_bg1.jpg*/ no-repeat right bottom;}
+.wywz{ padding:29px 40px; height:476px;_height:490px;}
+.wywz dd{ margin-bottom:5px; line-height:20px;}
+.wywz dd h2{ float:left; padding-right:15px; color:#666;}
+.zt_text{ height:18px; border:1px solid #000; width:458px;}
+.nr_text{ height:230px; border:1px solid #000; width:498px;}
+.zhu{ color:#ff6600; padding-left:64px; padding-top:5px;}
+.fj_text{height:18px; border:1px solid #000; width:157px;}
+.liulan{height:20px; border:1px solid #000; width:61px; background:#ece9d8; margin-left:2px;}
+.lxfs_text{ width:353px;height:18px; border:1px solid #000;}
+.wywz dd b{ font-weight:normal; color:#ff6600;}
+.fs{ background:url("fs.jpg")/*tpa=http://www.ganzhou.gov.cn/images/fs.jpg*/ no-repeat; width:78px; height:33px; border:none; margin-left:223px;}
+.cz{ background:url("cz.jpg")/*tpa=http://www.ganzhou.gov.cn/images/cz.jpg*/ no-repeat; width:78px; height:33px; border:none; margin-left:18px;}
+.wywz_hfxd{ height:710px; border:1px solid #e06b5a;}
+
+#page {width:992px;height:48px;line-height:48px;text-align:center;background:#EEEEEE;}
+#page label {  PADDING: 5px;}
+#page label:hover {}
+#page label.pgEmpty {COLOR:#333; }
+#page label.pgCurrent { FONT-WEIGHT: 700; }
+#page .pgNext{color:#73290C;}

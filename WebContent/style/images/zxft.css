@@ -1,0 +1,144 @@
+/*通用样式*/
+.area{width:998px; margin: 0px auto; clear: both;}
+.border{border: 1px solid #e47e6f;}
+.h-30{ height:30px;}
+.h-60{ height:60px;}
+.h-270{ height:270px;}
+.h-174{ height:174px;}
+.h-120{ height:120px;}
+.h-125{ height:125px;}
+.h-290{ height:290px;}
+.h-333{ height:333px;}
+.h-348{ height:348px;}
+.h-353{ height:353px;}
+.h-357{ height:357px;}
+.h-369{ height:369px;}
+.h-459{ height:459px;}
+.h-488{ height:488px;}
+.h-493{ height:493px;}
+.h-653{ height:653px;}
+.h-670{ height:670px;}
+.h-710{ height:710px;}
+.h-743{ height:743px;}
+.h-1050{ height:1050px;}
+.h-1091{ height:1091px;}
+.h-1437{ height:1437px;}
+.h-1598{ height:1598px;}
+.red{ color:#ff0000;}
+.green{color:#009933;}
+.w-61{ width:61px;}
+.w-546{ width:546px;}
+
+.hr-50{ height:50px;}
+
+/* 边框 */
+.tv_box{ border-bottom: 1px solid #e48072; border-left: 1px solid #e48072; border-right: 1px solid #e48072; border-top:3px solid #d0301b; background:url("top_tv_bg.jpg")/*tpa=http://www.ganzhou.gov.cn/images/top_tv_bg.jpg*/ repeat-x top;}
+
+/* 在线访谈内页（往期） */
+.l_area{ float:left; width:740px;}
+.top_tv_c{ float:left; width:717px; padding:12px 10px 12px 11px;}
+.top_tv_l{ float:left; width:345px; padding:12px 10px 12px 11px;}
+.top_tv_r{ float:left; width:372px;}
+.tv_tit{ background:url("ico_01_zt.jpg")/*tpa=http://www.ganzhou.gov.cn/images/ico_01_zt.jpg*/ no-repeat; height:23px; line-height:23px; padding-left:90px;}
+.tv_sj{ background:url("ico_01_sj.jpg")/*tpa=http://www.ganzhou.gov.cn/images/ico_01_sj.jpg*/ no-repeat; height:23px;line-height:23px; padding-left:90px;}
+.tv_nr{ background:url("ico_01_nr.jpg")/*tpa=http://www.ganzhou.gov.cn/images/ico_01_nr.jpg*/ no-repeat top left; height:148px;}
+.tv_nr p{ text-indent:2em; padding-top:37px; line-height:22px; padding-right:18px; padding-left:5px;}
+
+.tit_01{ background:url("titbg_01.jpg")/*tpa=http://www.ganzhou.gov.cn/images/titbg_01.jpg*/ repeat-x; height:30px; text-align:center;color:#fff;font-weight:bold; margin:0px 7px; line-height:30px; font-size:14px; }
+.jb_box{ border: 1px solid #e48072; background:url("top_tv_bg.jpg")/*tpa=http://www.ganzhou.gov.cn/images/top_tv_bg.jpg*/ repeat-x top;}
+.photos{ padding:0px 70px; height:148px; }
+.photos img{ display:block;}
+.newsphoto{ }
+.newsphoto img{ display:block; height:127px; padding-left:35px; padding-top:25px;}
+.resume{ text-indent:2em; line-height:24px; padding:0 15px 15px 15px;}
+
+
+.r_area{ float:right; width:248px;}
+.tit_02{height:40px; line-height:40px; clear:both;}
+.tit_02 h2{ float:left; line-height:40px; color:#c9240e; font-size:14px; font-weight:bold; padding-left:14px;}
+.tit_02 span{ float:right;line-height:40px; padding-right:25px;}
+.hd_list{ overflow:auto; padding-left:10px; }
+.hd_list dt{ line-height:24px; padding-left:25px; padding-right:20px;}
+.hd_list dd{ line-height:24px; margin-top:35px; padding-left:25px; padding-right:20px;}
+
+/*在线访谈内页（未登录） */
+#wytw-loginform{ width:429px; height:166px; margin:30px auto 0px; clear: both; background: url("loginbg_18.jpg")/*tpa=http://www.ganzhou.gov.cn/images/loginbg_18.jpg*/ no-repeat; }
+#wytw-loginform #yfdl{ font-size: 14px; font-weight: bold; padding-left:40px; height: 26px; padding-top: 18px; }
+#name,#password{ height: 32px; clear: both; margin: 0px auto; width: 260px; }
+#name-wz,#password-wz{ display: block; float: left; width: 55px; height: 20px; line-height: 20px; }
+#name-input,#password-input{ display: block; float: left; width: 200px; height: 20px; }
+#name .input,#password .input{height: 20px; width: 200px; border: 1px solid #999999; line-height: 20px;}
+#wytw-loginform #dl{ clear: both; margin: 0px auto; width: 260px; padding-top: 5px; height: 35px; }
+#wytw-loginform #dlbutton{ display: block; float: left; padding-left: 40px; width: 94px; height: 35px; }
+#wytw-loginform .button{ background: url("loging-icon_49.png")/*tpa=http://www.ganzhou.gov.cn/images/loging-icon_49.png*/ no-repeat; height: 32px; width: 72px; border: 0px none; cursor:pointer;}
+#wytw-loginform #zcimg{ display: block; float: left;height: 32px; width: 72px; cursor:pointer;}
+
+/*在线直播页*/
+#wytw-form{ clear:both; padding-right: 20px; padding-left: 18px; }
+#wytw-form #bt{ height: 35px;clear:both; }
+#wytw-form #bt #btwz{display: block; float: left; width: 56px; height: 35px;}
+#wytw-form #bt #btinput{display: block; float: left; width: 550px; height: 35px;}
+#wytw-form .input{ height: 24px; width: 550px; border: 1px solid #bababa; line-height: 24px; }
+
+#wytw-form #nr{ height: 165px; clear:both;}
+#wytw-form #nr #nrwz{display: block; float: left; width: 56px; height: 252px;}
+#wytw-form #nr #nrtextarea{ display: block; float: left; width: 550px; height: 140px; }
+#wytw-form .textarea{ height: 152px; width: 550px; border: 1px solid #bababa; }
+
+#wytw-form #tj{ height: 47px; clear:both; }
+#wytw-form #tj #tjwz{ display: block; float: left; width: 56px; padding-top: 25px; _padding-top: 21px;}
+#wytw-form #tj #tjinput{ display: block; float: left; width: 66px; padding-top: 19px; _padding-top: 15px;}
+#wytw-form #tj #lzmimg{ display: block; float: left; padding-top: 20px; _padding-top: 15px; }
+#wytw-form #tj #tjbutton{ padding-left: 340px; display: block; float: left; padding-top: 13px;  _padding-top: 9px;}
+#wytw-form .lzm-input{ height: 18px; width: 54px; }
+#wytw-form .button{ background: url("wytw-icon_05.jpg")/*tpa=http://www.ganzhou.gov.cn/images/wytw-icon_05.jpg*/ no-repeat; height: 33px; width: 74px; border: 0px none; color: #FFFFFF; font-size: 14px; font-weight: bold; }
+
+.visit_nr{ height:355px;}
+.visit_nr li{ padding-left:15px; padding-right:10px; line-height:24px;}
+.live{ background:url("live_bg.jpg")/*tpa=http://www.ganzhou.gov.cn/images/live_bg.jpg*/ repeat-x bottom; height:469px; margin:0 50px; padding-top:24px;}
+
+/* 在线访谈首页 */
+.zxft{ float:left; width:515px; padding-top:7px; padding-left:8px; padding-right:8px;}
+.ftjh{ float:right; width:436px; padding-top:7px; padding-left:8px; padding-right:8px;}
+.tit_03{ background:url("titbg_02.jpg")/*tpa=http://www.ganzhou.gov.cn/images/titbg_02.jpg*/ repeat-x; height:34px; }
+.tit_03 h2{ background: #fff url("ico_02.jpg")/*tpa=http://www.ganzhou.gov.cn/images/ico_02.jpg*/ no-repeat; width:123px; height:34px; padding-right:2px; text-align:center; line-height:30px; color:#fff; font-size:14px; font-weight:bold;}
+.l_pic-{ float:left; width:123px;}
+.l_pic- h2{ height:28px; line-height:28px; color:#e23b1f; background:#e6e6e6; text-align:center; font-size:14px; font-weight:bold;}
+.guests{ height:265px; background:#f6f6f6;}
+.guests img{ display:block; margin: 0 14px;}
+.guests p{ text-align:center; padding-top:10px;}
+.l_pic{ float:left; width:310px;}
+.l_pic h2{ height:28px; line-height:28px; color:#e23b1f; background:#e6e6e6; text-align:center; font-size:14px; font-weight:bold;}
+.l_pic_l{ float:left; width:310px;}
+.l_pic_l img{ display:block; width:300px; height:200px; padding:4px; border:1px solid #e4e4e4; }\
+.r_nr_btn--{ float:left; width:122px; height:47px; margin-left:92px; margin-top:18px;}
+.r_nr--{ line-height:26px; width:376px; float:left; margin-left:16px;}
+.r_nr{  float:right;line-height:25px; width:195px;}
+.r_nr a{ font-weight:bold; color:#c4210b; }
+.r_nr p{ text-indent:2em;}
+.r_nr_btn{ width:122px; height:47px; margin-left:92px; margin-top:18px;}
+
+.tit_04{ background:url("jqyg_bg.jpg")/*tpa=http://www.ganzhou.gov.cn/images/jqyg_bg.jpg*/ repeat-x; height:29px; }
+.tit_04 span{ float:right; padding-right:8px; line-height:29px; color:#c4210b; font-size:14px; font-weight:bold;}
+.tit_04 h2{ background: url("ico_13.jpg")/*tpa=http://www.ganzhou.gov.cn/images/ico_13.jpg*/ no-repeat 10px 50%; height:29px; padding-left:30px; line-height:29px; color:#c4210b; font-size:14px; font-weight:bold;}
+.jqyg{ height:130px; overflow:auto; width:413px; line-height:22px; padding:5px 10px;}
+.jqyg a{ font-weight:bold; color:#c4210b; }
+.plan{ height:140px; overflow:auto; width:433px; margin-top: 5px;}
+.plan h2{ text-align:center; font-weight:bold; padding-top:8px; padding-bottom:8px;}
+.plan_box{ border:1px solid #dbdbdb; width:412px;_width:410px;  height:auto;}
+.plan_box dt{ height:29px; line-height:29px; font-weight:bold; clear:both;}
+.plan_box dd{ border-top:1px solid #dbdbdb; height:30px; line-height:22px;clear:both;}
+.ft_sj{ float:left; width:85px; border-right:1px solid #dbdbdb; text-align:center; padding-left:5px; padding-right:5px;}
+.ft_dw{ float:left; width:70px; border-right:1px solid #dbdbdb; text-align:center; padding-left:5px; padding-right:5px;}
+.ft_zt{ float:left; width:235px;_width:225px; text-align:center;}
+.ft_nr{ float:left; width:235px;_width:225px; text-indent:1em; }
+.ft_list li{ border-bottom: 1px solid #e4e4e4; height:146px; padding-bottom:22px; padding-top:22px; width:968px; margin-left:13px;}
+.wqft_box{ float:left; width:474px; height:146px;}
+.wqft_l{ float:left; width:204px;}
+.wqft_l img{ display:block; padding:4px; border:1px solid #e4e4e4; }
+.wqft_r{ float:left; padding-left:5px; width:265px;}
+.wqft_r dd{ line-height:24px;}
+.wqft_r dd a{ font-weight:bold; color:#c4210b; }
+.r_box{ float:left; width:474px;}
+.hr-634{ min-height:634px; height:634px; height:auto;}
+.w-18{ width:18px; height:146px; float:left;}

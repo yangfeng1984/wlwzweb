@@ -1,0 +1,80 @@
+#bxcy-content-border{ width:998px; margin: 0px auto; clear: both; height:auto; min-height:400px; _height:400px; }
+
+#bxcy-img{clear:both; margin: 0px auto; width: 998px;}
+
+.bxcy-list{ clear:both; margin: 0px auto; width: 996px; border: 1px solid #e3e3e3; min-height:70px; _height:70px; display: table; }
+.bxcy-list dt{ float:left; height:28px; border-right: 1px solid #ebebeb;}
+.bxcy-list dt h2{ background: #FFFFFF url(bxcy-lmbtbg_18.gif) repeat-x; height: 26px; margin: 1px;  line-height:26px; text-align:center; font-weight: bold;}
+.bxcy-list .nav-xh{ width:40px;}
+.bxcy-list .nav-bt{ width:770px;}
+.bxcy-list .nav-bk{ width:150px;}
+.bxcy-list .nav-ftn{ width:100px;}
+.bxcy-list .nav-time{ width:104px;}
+.bxcy-list .nav-dj{ width:79px; border-right: 0px none;}
+.bxcy-list .nav-pl{ width:55px; border-right: 0px none;}
+
+.bxcy-list dd{ float:left; height:40px; line-height:40px;  border-top: 1px solid #ebebeb;border-right: 1px solid #ebebeb; text-align:center;}
+.bxcy-list dd span{ padding-left:6px; padding-right:6px;}
+.bxcy-list .xh{ width:40px;}
+.bxcy-list .bt{ width:764px; padding-left:6px; text-align:left;}
+.bxcy-list .bk{ width:150px;}
+.bxcy-list .ftn{ width:100px;}
+.bxcy-list .time{ width:104px;}
+.bxcy-list .dj{ width:79px; border-right: 0px none;}
+.bxcy-list .pl{ width:55px; border-right: 0px none;}
+.red{ color:#ff0000;}
+
+#page-bk{clear:both; margin: 0px auto; width: 996px; border: 1px solid #e3e3e3; border-top: 0px none; height:60px; clear: both;}
+
+.column-tit2{ clear:both; background: url(myzjlmbtbg1_06.gif) repeat-x; height: 31px; padding-right: 14px; padding-left: 14px; }
+.column-tit2 h2{ font-size: 14px; font-weight: bold; color: #ca250f; padding-left: 25px; line-height: 29px; background: url(bxcy-icon_24.jpg) no-repeat 0px 50%; }
+.column-tit2 h2 a{ color: #ca250f; }
+.column-tit2 span{ float:right; color: #333333; line-height: 29px; background: url(myzj-icon_18.jpg) no-repeat 0px 50%; height: 31px; width: 109px; padding-left: 11px; }
+.column-tit2 span a{color: #333333;}
+
+#login-wz{ text-align:center; height: 40px; padding-top: 40px; }
+.red{ color:#ff0000;}
+#wytw-loginform{ width:429px; height:166px; margin:30px auto 0px; clear: both; background: url(loginbg_18.jpg) no-repeat; }
+#wytw-loginform #yfdl{ font-size: 14px; font-weight: bold; padding-left:40px; height: 26px; padding-top: 18px; }
+#name,#password{ height: 32px; clear: both; margin: 0px auto; width: 260px; }
+#name-wz,#password-wz{ display: block; float: left; width: 55px; height: 20px; line-height: 20px; }
+#name-input,#password-input{ display: block; float: left; width: 200px; height: 20px; }
+#name .input,#password .input{height: 20px; width: 200px; border: 1px solid #999999; line-height: 20px;}
+#wytw-loginform #dl{ clear: both; margin: 0px auto; width: 260px; padding-top: 5px; height: 35px; }
+#wytw-loginform #dlbutton{ display: block; float: left; padding-left: 50px; width: 94px; height: 35px; }
+#wytw-loginform .button{ background: url(loging-icon_49.png) no-repeat; height: 32px; width: 72px; border: 0px none; cursor:pointer;}
+#wytw-loginform #zcimg{ display: block; float: left;height: 32px; width: 72px; cursor:pointer;}
+
+#wytw-form{ clear:both; padding-right: 77px; padding-left: 77px; padding-top: 40px; }
+#wytw-form #bt{ height: 35px;clear:both; }
+#wytw-form #bt #btwz{ display: block; float: left; width: 56px; height: 35px; line-height: 24px; }
+#wytw-form #bt #btinput{ display: block; float: left; width: 780px; height: 35px; }
+#wytw-form .input{ height: 24px; width: 780px; border: 1px solid #bababa; line-height: 24px; }
+
+#wytw-form #nr{ height: 240px; clear:both; }
+#wytw-form #nr #nrwz{ display: block; float: left; width: 56px; height: 240px; }
+#wytw-form #nr #nrtextarea{ display: block; float: left; width: 780px; height: 240px; }
+#wytw-form .textarea{ height: 240px; width: 780px; border: 1px solid #bababa; }
+
+#wytw-form #lzm{ height: 50px; clear:both; }
+#wytw-form #lzm #lzmwz{ display: block; float: left; width: 56px; padding-top: 25px; _padding-top: 21px;}
+#wytw-form #lzm #lzminput{ display: block; float: left; width: 70px; padding-top: 19px; _padding-top: 15px; }
+#wytw-form #lzm #lzmimg{ display: block; float: left; padding-top: 20px; _padding-top: 15px; }
+#wytw-form #lzm .lzm-input{ height: 18px; width: 60px; }
+
+
+#wytw-form #tj-cz{ height: 47px; clear:both; }
+#wytw-form #tj-cz #tjbutton{ padding-left: 340px; display: block; float: left; }
+#wytw-form #tj-cz #czbutton{ display: block; float: left; padding-left: 20px; }
+
+#wytw-form #tj-cz .tj-button{ background: url(wytw-icon_05.jpg) no-repeat; height: 33px; width: 74px; border: 0px none; color: #FFFFFF; font-size: 14px; font-weight: bold; line-height: 30px; }
+#wytw-form #tj-cz .cz-button{ background: url(login-icon_18.jpg) no-repeat; height: 33px; width: 74px; border: 0px none; color: #FFFFFF; font-weight: bold; line-height: 30px; font-size: 14px; }
+
+#wytw-form #tpfj{ height: 20px; clear:both; margin-top: 20px; }
+#wytw-form #tpfjwz{ display: block; float: left; width: 80px; height: 20px; line-height:20px;}
+#wytw-form #tpfjinput{ display: block; float: left; width: 346px; }
+#wytw-form #tpfjinput .input{height: 20px; width: 336px; border: 1px solid #bababa; line-height: 20px;}
+#wytw-form #llbutton{ display: block; float: left; margin-right: 10px; }
+#wytw-form #llbutton input,#wytw-form #qxbutton input{height: 22px; width: 68px;}
+#wytw-form #qxbutton{ display: block; float: left;  }
+#wytw-form #tpfj{ display: block; float: left;  }

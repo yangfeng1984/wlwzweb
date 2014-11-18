@@ -1,0 +1,81 @@
+/* CSS Document */
+
+body,div,p,span,h1,h2,h3,h4,h5,h6,dl,dt,dd,ul,ol,li,pre,form,fieldset,input,textarea,blockquote{
+	padding:0; 
+	margin:0;	
+}
+body,div,p,span,h1,h2,h3,h4,h5,h6,ul,ol,li,dl,dt,dd,pre,form,table,td,div{border:0;}
+table,td,tr,th{font-size:12px; padding:0; margin:0;}
+img,a img{
+ border: 0px;
+	padding:0; margin:0;
+}
+ul,li,ol,dt,dl,dd{list-style:none;}
+h1,h2,h3,h4,h5,h6{font-size:12px;font-weight:normal}
+input,select,textarea,form img,button { vertical-align:middle; line-height:normal; }
+body{
+	padding:0;
+	color:#333333;
+	background: #fff url("body_bg.jpg")/*tpa=http://www.ganzhou.gov.cn/images/body_bg.jpg*/ repeat-x;
+	font: 12px "\5b8b\4f53", Arial, Helvetica, sans-serif;
+}
+
+a{
+ color:#333333;
+ text-decoration:none;}
+a:hover{
+ color:#ed1c24;
+ text-decoration:underline;}
+
+.tc{text-align:center;}
+.tl{text-align:left;}
+.tr{text-align:right;}
+.dis{display:block;}
+.undis{display:none;}
+.fl{float:left;}
+.fr{float:right;}
+.pointer { cursor:pointer; }
+.clear{ clear:both;line-height:0px;height:0px;font-size:0px;}
+.hr-2,.hr-3,.hr-4,.hr-5,.hr-6,.hr-7,.hr-7_6,.hr-8,.hr-9,.hr-10,.hr-11,.hr-12,.hr-13,.hr-14,.hr-15,.hr-17,.hr-19,.hr-23,.hr-30,.hr-35,.hr-55{clear:both; overflow:hidden; font-size:1px; line-height:1px;}
+.hr-2{height:2px;}.hr-3{height:3px;}.hr-4{height:4px;}.hr-5{height:5px;}.hr-6{height:6px;}.hr-7{height:7px;}.hr-8{height:8px;}.hr-9{height:9px;}.hr-10{height:10px;}.hr-11{height:11px;}.hr-12{height:12px;}.hr-13{ height:13px;}.hr-14{ height:14px;}.hr-15{ height:15px;}.hr-17{ height:17px;}.hr-20{ height:20px;}.hr-23{ height:23px;}.hr-30{ height:30px;}.hr-35{ height:35px;}.hr-55{ height:55px;}
+#area{width:998px; margin: 0px auto; clear: both;}
+
+#wap{ background:url("wap_bg.jpg")/*tpa=http://www.ganzhou.gov.cn/images/wap_bg.jpg*/ no-repeat center top; height:245px; width:100%; margin:0 auto;}
+.top{ height:33px; padding-left:10px; }
+.top span{  color:#501e00;line-height:31px;}/*padding-right:45px;*/
+.top span a{ color:#501e00;}
+.top_login{ padding-top:7px;_padding-top:5px; }
+.top_login a{ padding-left:11px;}
+.top_login a:hover,.top_landing a:hover,.top span a:hover,.main_menu li a:hover{ color:#ff0000;}
+.top_login .text{ width:103px; height:18px; border:1px solid #7f9db9; line-height:18px;}
+.top_login .dl{ width:41px; height:20px; background:url("top_login_dl.jpg")/*tpa=http://www.ganzhou.gov.cn/images/top_login_dl.jpg*/ no-repeat; border:none; margin-right:5px;}
+.top_login .zc{ width:41px; height:20px; background:url("top_login_zc.jpg")/*tpa=http://www.ganzhou.gov.cn/images/top_login_zc.jpg*/ no-repeat; border:none;}
+.top_landing{ line-height:33px; color:#501e00;}
+.top_landing a{ color:#501e00;}
+.flash{ height:123px;}
+.main_menu{ height:35px;}
+.main_menu li{ float:left; line-height:35px; color:#d41e09; font-size:14px; font-weight:bold;}
+.main_menu li a{ color:#d41e09; }
+.nav{ background:url("nav_bg.jpg")/*tpa=http://www.ganzhou.gov.cn/images/nav_bg.jpg*/ no-repeat; height:48px; padding-left:15px;}
+.nav dt{ float:left;}
+.nav dt.link{ background:url("link_bg.jpg")/*tpa=http://www.ganzhou.gov.cn/images/link_bg.jpg*/ no-repeat 0px 20px; width:2px; height:48px;}
+.nav dd{ float:left; font-size:14px; font-weight: bold; color:#fff; padding-top:21px; padding-left:19px; padding-right:19px;}
+.nav dd a{ color:#fff;}
+.nav dd.hover{ background:url("link_jt.jpg")/*tpa=http://www.ganzhou.gov.cn/images/link_jt.jpg*/ no-repeat center 6px; }
+.nav dd.hover a{ color:#fff;}
+.nav dd.hover a:hover{ text-decoration:none;}
+
+#footer{ height:107px; background:url("footer_bg.jpg")/*tpa=http://www.ganzhou.gov.cn/images/footer_bg.jpg*/ repeat-x; text-align:center; line-height:24px; padding-top:32px;}
+
+
+.dqwz{ width:998px; margin: 0px auto; clear: both; background: url("dqwz_09.gif")/*tpa=http://www.ganzhou.gov.cn/images/dqwz_09.gif*/ repeat-x; height: 29px; overflow: hidden; }
+.dqwz h2{ font-size: 14px; font-weight: bold; color: #b91700; line-height: 29px; background: url("dqwz_05.jpg")/*tpa=http://www.ganzhou.gov.cn/images/dqwz_05.jpg*/ no-repeat; padding-left: 12px; }
+.dqwz h2 a{ color: #b91700; }
+.dqwz span{ float:right; color: #333333; line-height: 28px; padding-right: 15px; }
+.dqwz span a{ color: #333333; }
+
+
+.page{ text-align: center; clear: both; height: 30px; padding-top:16px; padding-bottom:9px;  }
+.page div{ text-align: center; font-size:14px; }
+.page div strong{ color: #e75959;  border: 1px solid #e06b5a; margin-right:3px; margin-left:3px; width:21px;display:block;float:left;font-size:14px; line-height: 22px;height:22px; }
+.page div span{width:90px;display:block;float:left;font-size:14px; padding-top:5px;}

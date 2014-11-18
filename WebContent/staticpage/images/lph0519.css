@@ -1,0 +1,15 @@
+@charset "utf-8";
+/* CSS Document */
+
+.lph0519{background:url("lph520_zxft_03.jpg")/*tpa=http://www.ganzhou.gov.cn/images/lph520_zxft_03.jpg*/ no-repeat;height:359px;border:1px solid #aab5c1;border-top:none; padding-top:47px}
+.lph0519_box{height:193px;position:relative;overflow:hidden;}
+.lph0519_l,.lph0519_c,.lph0519_r{float:left;}
+.lph0519_l,.lph0519_r{width:49px;margin-top:56px;}
+.lph0519_c{width:892px;height:193px;}
+.lph0519_c ul{width:100%;}
+.lph0519_c li{width:154px;height:193px;float:left;display:inline;margin-left:13px; background:#FFF; padding:4px;border-radius:3px}
+.lph0519_c li p{line-height:20px;padding-left:5px;}
+.lph0519_c img{display:block;margin-bottom:10px;}
+.lph0519_l a,.lph0519_r a{display:block;width:32px;height:59px;cursor:pointer;}
+.lph0519_l a{background:url("lph_r1028.jpg")/*tpa=http://www.ganzhou.gov.cn/images/lph_r1028.jpg*/ no-repeat;float:right;}
+.lph0519_r a{background:url("lph_l1028.jpg")/*tpa=http://www.ganzhou.gov.cn/images/lph_l1028.jpg*/ no-repeat}
